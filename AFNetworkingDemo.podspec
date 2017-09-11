@@ -52,10 +52,10 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "zhangjw@mmwipo.com" => "zhangjw@mmwipo.com" }
-  # Or just: s.author    = "zhangjw@mmwipo.com"
-  # s.authors            = { "zhangjw@mmwipo.com" => "zhangjw@mmwipo.com" }
-  # s.social_media_url   = "http://twitter.com/zhangjw@mmwipo.com"
+  s.author             = { "YoungMonk" => "youngmonk@aliyun.com" }
+  # Or just: s.author    = "YoungMonk"
+  # s.authors            = { "YoungMonk" => "youngmonk@aliyun.com" }
+  # s.social_media_url   = "http://twitter.com/YoungMonk"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
